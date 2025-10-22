@@ -19,8 +19,15 @@
 
 ### 🧰 Tech Stack  
 💻 **Languages:** Python | Java | C | PHP  
+
 🌐 **Web Development:** HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | Next.js  
+
 🗄️ **Databases:** MySQL | SQL | MongoDB  
+
+📊 **Data Science:** NumPy | Pandas | Matplotlib | Seaborn  
+
+🤖 **Machine Learning:** Scikit-learn | FastAPI | PyTorch  
+
 ⚙️ **Tools & Technologies:** Git & GitHub | VS Code | IntelliJ IDEA | Jupyter Notebook | Google Colab | Chart.js  
 
 ---
@@ -35,8 +42,8 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/smith-gayen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/fusion_tune_records" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/smith-gayen-a238542a6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/fusionsmith_007/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:smithgayen@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
