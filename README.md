@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hey there, I'm Smith Gayen  
 
-<!--
-**smith-gayen/smith-gayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student @ The Neotia University**  
+🤖 **Aspiring AI Engineer | Python Explorer | Tech Enthusiast**  
+💡 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**  
+🎨 Also love creating sleek **Web Designs** and exploring **Digital Creativity**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🌱 Currently learning **AI, ML, and Data Science**  
+- 💻 Skilled in **Python**, **Java**, **C**, **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **Tailwind**, and **Next.js**  
+- 🧠 Exploring futuristic technologies to build intelligent and secure systems  
+- 🧩 Completed internships in **AI** (Academor) and **Digital Marketing** (Dataspace Security)  
+- 🏆 Recipient of the **Aikyashree Merit-cum-Means Scholarship**  
+- ⚙️ Always improving through projects and creative coding  
+
+---
+
+### 🧰 Tech Stack  
+💻 **Languages:** Python | Java | C | PHP  
+🌐 **Web Development:** HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | Next.js  
+🗄️ **Databases:** MySQL | SQL | MongoDB  
+⚙️ **Tools & Technologies:** Git & GitHub | VS Code | IntelliJ IDEA | Jupyter Notebook | Google Colab | Chart.js  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SmithGayen&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmithGayen&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/smith-gayen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/fusion_tune_records" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:smithgayen@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### ✨ “Code. Create. Innovate.”  
+> I believe in combining creativity and logic to build digital experiences that make a difference.
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Let’s connect, collaborate, and create something amazing 🚀
